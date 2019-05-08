@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication.lib;
+package com.zwl.gmap.offline.lib;
 
 public interface GoogleMapLayerTypes {
 

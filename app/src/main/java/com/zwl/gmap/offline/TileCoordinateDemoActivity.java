@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication;
+package com.zwl.gmap.offline;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;

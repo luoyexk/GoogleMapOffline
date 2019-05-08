@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication
+package com.zwl.gmap.offline
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity

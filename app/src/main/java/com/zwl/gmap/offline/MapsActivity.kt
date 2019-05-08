@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication
+package com.zwl.gmap.offline
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -9,7 +9,6 @@ import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
-import com.google.android.gms.maps.model.TileOverlayOptions
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 

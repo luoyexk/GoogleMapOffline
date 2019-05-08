@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication.lib;
+package com.zwl.gmap.offline.lib;
 
 import com.google.android.gms.maps.model.UrlTileProvider;
 

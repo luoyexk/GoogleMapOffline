@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication.lib;
+package com.zwl.gmap.offline.lib;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

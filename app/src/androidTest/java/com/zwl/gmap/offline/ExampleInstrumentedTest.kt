@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication
+package com.zwl.gmap.offline
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

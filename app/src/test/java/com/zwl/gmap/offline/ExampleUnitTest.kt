@@ -1,4 +1,4 @@
-package com.zwl.arcore.myapplication
+package com.zwl.gmap.offline
 
 import org.junit.Test
 
